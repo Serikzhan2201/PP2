@@ -1,0 +1,5 @@
+myvar = "sERIKZHAN"
+my_var = "Kairatov"
+_my_var = "Jastar"
+myVar = "City"
+MYVAR = "Silkyway"

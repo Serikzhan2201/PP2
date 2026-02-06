@@ -1,0 +1,1 @@
+print("I am fine"); print("KBTU is fine"); print("Goodbye");print("Hello"); print("World")

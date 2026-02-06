@@ -1,0 +1,5 @@
+print("Serikzhan")
+print("Kairatov")
+print("Programming")
+print("Principles")
+print("5th one")

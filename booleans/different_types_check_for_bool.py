@@ -1,0 +1,7 @@
+bool(True)
+bool(None)
+bool(1)
+bool("""""")
+bool(tuple())
+bool(list())
+bool(dict())

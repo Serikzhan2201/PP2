@@ -1,0 +1,5 @@
+x = str("s1") 
+y = float(2)    
+z = int(3.0)  
+a = float(2.33)
+b = int(2)

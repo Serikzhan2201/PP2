@@ -1,0 +1,5 @@
+print("Adlet")
+print("Esenkeldi")
+print("Almas")
+print("Beknur")
+print("Erasyl")
